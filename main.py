@@ -1,4 +1,3 @@
-# Assets: https://techwithtim.net/wp-content/uploads/2020/09/assets.zip
 import pygame
 import time
 from checkers.constants import WIDTH, HEIGHT, SQUARE_SIZE, RED, WHITE,MIN,MAX
